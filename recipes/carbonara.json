@@ -1,0 +1,112 @@
+{
+  "slug": "carbonara",
+  "title": "Spaghetti alla Carbonara",
+  "summary": "Guanciale, egg, Pecorino and black pepper, and no cream. The sauce is an emulsion made off the heat, so the whole trick is having everything ready before the pasta is.",
+  "servings": 4,
+  "time": { "prep": 15, "cook": 20, "total": 35 },
+  "tags": ["pasta", "weeknight", "sample"],
+  "equipment": [
+    "Large pot with a lid",
+    "12-inch (30 cm) skillet",
+    "Mixing bowl and a fork or whisk",
+    "Microplane or fine grater",
+    "Tongs",
+    "A mug for pasta water"
+  ],
+  "ingredients": [
+    {
+      "group": "Pasta",
+      "items": [
+        { "qty": "400 g", "item": "spaghetti", "note": "or rigatoni" },
+        { "qty": "1 tbsp", "item": "kosher salt", "note": "for the water" }
+      ]
+    },
+    {
+      "group": "Sauce",
+      "items": [
+        { "qty": "150 g", "item": "guanciale", "note": "or pancetta; rind off, cut into 1 cm batons" },
+        { "qty": "4", "item": "egg yolks", "note": "room temperature" },
+        { "qty": "1", "item": "whole egg", "note": "room temperature" },
+        { "qty": "80 g", "item": "Pecorino Romano", "note": "finely grated, divided" },
+        { "qty": "2 tsp", "item": "black peppercorns", "note": "toasted and coarsely cracked" }
+      ]
+    }
+  ],
+  "mise": [
+    {
+      "title": "Get the water on",
+      "text": "Fill the large pot with 3 litres of water, cover it, and set it over high heat. Less water than usual means starchier pasta water, which helps the sauce come together.",
+      "timer": { "label": "Water to boil", "seconds": 600 }
+    },
+    {
+      "title": "Toast and crack the pepper",
+      "text": "Toast 2 tsp peppercorns in the dry skillet over medium heat until fragrant, about a minute. Tip them out and crack them coarsely in a mortar or under the flat of a knife.",
+      "timer": { "label": "Toast pepper", "seconds": 60 },
+      "tip": "Wipe the skillet out afterwards. You'll render the guanciale in it."
+    },
+    {
+      "title": "Cut the guanciale",
+      "text": "Trim off the rind. Slice the guanciale 1 cm thick, then cut the slices into 1 cm batons. You want about 150 g."
+    },
+    {
+      "title": "Grate the cheese",
+      "text": "Finely grate 80 g Pecorino Romano on the Microplane. Set aside 20 g in a small bowl for serving.",
+      "tip": "Fine and fluffy melts. Coarse shreds clump."
+    },
+    {
+      "title": "Make the egg paste",
+      "text": "In the mixing bowl, beat 4 yolks and 1 whole egg with the remaining 60 g Pecorino and most of the cracked pepper. It should be a thick, sticky paste.",
+      "tip": "Save the egg whites for an omelette or meringue."
+    },
+    {
+      "title": "Set out the tools",
+      "text": "Put the tongs and the mug by the stove, and warm the bowls if you like. From here on, things move fast."
+    }
+  ],
+  "steps": [
+    {
+      "title": "Salt the water",
+      "text": "When the water is at a rolling boil, add 1 tbsp kosher salt. That's less than you'd usually use, because the Pecorino and guanciale are both salty."
+    },
+    {
+      "title": "Render the guanciale",
+      "text": "Put the guanciale in the cold skillet and set it over medium-low heat. Let the fat render slowly, stirring now and then, until the edges are golden and crisp but the centres are still chewy.",
+      "timer": { "label": "Guanciale", "seconds": 480 },
+      "tip": "Starting cold renders more fat. Keep this timer running and go to the next step."
+    },
+    {
+      "title": "Drop the pasta",
+      "text": "While the guanciale renders, add the spaghetti to the boiling water and stir for the first minute so it doesn't stick. Cook it for 2 minutes less than the package says. It finishes in the pan.",
+      "timer": { "label": "Pasta", "seconds": 480 }
+    },
+    {
+      "title": "Take the pan off the heat",
+      "text": "When the guanciale is done, turn off the heat and move the skillet off the burner. Leave the guanciale and all its fat in the pan.",
+      "tip": "A pan that's too hot scrambles the eggs. Off the heat is the whole technique."
+    },
+    {
+      "title": "Loosen the egg",
+      "text": "Just before the pasta is ready, whisk 2 to 3 tablespoons of the hot pasta water into the egg paste. Then fill the mug with more pasta water and keep it by the stove."
+    },
+    {
+      "title": "Toss the pasta in the fat",
+      "text": "Use the tongs to move the pasta straight into the skillet, letting a little water come with it. Toss it in the fat for about 30 seconds to coat it and cool the pan slightly.",
+      "timer": { "label": "Toss", "seconds": 30 }
+    },
+    {
+      "title": "Make the sauce",
+      "text": "Pour the egg mixture over the pasta and toss constantly, adding splashes of pasta water, until it turns creamy and glossy and coats every strand.",
+      "timer": { "label": "Emulsify", "seconds": 90 },
+      "tip": "Too thin? Set the pan back over the lowest heat for a few seconds while you toss. Too thick? Add more water. Never let it bubble."
+    },
+    {
+      "title": "Serve right away",
+      "text": "Twirl the pasta into the bowls and top it with the reserved Pecorino and the rest of the pepper. Carbonara waits for no one."
+    }
+  ],
+  "notes": [
+    "No cream, garlic or onion in the Roman version. The creaminess comes from egg, cheese and starchy water.",
+    "Pancetta works if you can't find guanciale. Thick-cut unsmoked bacon is the last resort."
+  ],
+  "log": []
+}
